@@ -1,0 +1,1 @@
+All private and public routes will go here.
